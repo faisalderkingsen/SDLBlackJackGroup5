@@ -1,1 +1,3 @@
 # SDLBlackJackGroup5
+To successfully use the program, the appropriate SDL library needs to be downloaded. We utilized mingw_dev_lib for this purpose, but it should also work using the conventional installation method for SDL. As a programming environment, we used VSCode because it allows for seamless loading of the entire program. Additionally, for VSCode, the C/C++ and CMake extensions need to be added. Following this, the entire program can be downloaded from GitHub and loaded as a folder in VSCode.
+Once you run the program, a window should open, allowing you to start playing. The gameplay itself is self-explanatory due to the implemented game assistance.
